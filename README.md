@@ -1,4 +1,4 @@
-# "The way to get started is to quit talking and begin doing." Walt Disney
+## "The way to get started is to quit talking and begin doing." Walt Disney
 
 - 👋 Hi, I’m AmirAbbas Pezeshki
 - 👀 I’m interested in ['HTML', 'CSS', 'Tailwind', 'React.js', 'Next.js', 'TypeScript', 'JavaScript', 'Redux', 'React Native']
